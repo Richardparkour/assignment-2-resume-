@@ -1,0 +1,28 @@
+body{
+    
+font-family: 'Lato', sans-serif;
+    background-color: white;
+}
+.xyz{
+    color: #000;
+    text-align: center;    
+}
+.abc{
+    letter-spacing:0.1cm;
+}
+
+hr{
+    height: 1px;
+    background-color: black;
+}
+
+
+.box1{
+    width: 24%;
+   
+}
+.box2{
+    width: 30%;
+}
+
+
